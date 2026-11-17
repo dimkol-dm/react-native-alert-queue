@@ -4,9 +4,9 @@ React Native alert & dialog library. Queue multiple alerts, use async/await, and
 
 [![npm version](https://img.shields.io/npm/v/react-native-alert-queue?style=flat-square)](https://www.npmjs.com/package/react-native-alert-queue)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-alert-queue?style=flat-square)](https://www.npmjs.com/package/react-native-alert-queue)
-[![Run in Expo Snack](https://img.shields.io/badge/Run%20in-Expo%20Snack-4630EB.svg?logo=expo&style=flat-square)](https://snack.expo.dev/@xxsnakerxx/react-native-alert-queue)
+[![Run in Expo Snack](https://img.shields.io/badge/Run%20in-Expo%20Snack-4630EB.svg?logo=expo&style=flat-square)](https://snack.expo.dev/@dimkol.dm/react-native-alert-queue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/xxsnakerxx?style=flat-square)](https://github.com/sponsors/xxsnakerxx)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/dimkol-dm?style=flat-square)](https://github.com/sponsors/dimkol-dm)
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
 [![Built with create-react-native-library](https://img.shields.io/badge/built%20with-create--react--native--library-9cf?style=flat-square)](https://github.com/callstack/react-native-builder-bob)
@@ -32,7 +32,7 @@ See how `react-native-alert-queue` works in action! 🚀
 
 Try it instantly in your browser:
 
-👉 https://snack.expo.dev/@xxsnakerxx/react-native-alert-queue
+👉 https://snack.expo.dev/@dimkol.dm/react-native-alert-queue
 
 
 ### 🛠 Basics
@@ -95,7 +95,7 @@ pnpm add react-native-alert-queue
 ## Usage
 
 > ⚡ **Full working examples available!**
-> Explore the [example app here](https://github.com/xxsnakerxx/react-native-alert-queue/tree/main/example/src/containers) to see all features in action.
+> Explore the [example app here](https://github.com/dimkol-dm/react-native-alert-queue/tree/main/example/src/containers) to see all features in action.
 
 ### Basic Setup
 

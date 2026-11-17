@@ -63,14 +63,14 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/xxsnakerxx/react-native-alert-queue.git"
+		"url": "git+https://github.com/dimkol-dm/react-native-alert-queue.git"
 	},
-	"author": "Dmitrii Kolesnikov <xxsnakerxx@gmail.com> (https://github.com/xxsnakerxx)",
+	"author": "Dmitrii Kolesnikov <dimkol.dm@gmail.com> (https://github.com/dimkol-dm)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/xxsnakerxx/react-native-alert-queue/issues"
+		"url": "https://github.com/dimkol-dm/react-native-alert-queue/issues"
 	},
-	"homepage": "https://github.com/xxsnakerxx/react-native-alert-queue#readme",
+	"homepage": "https://github.com/dimkol-dm/react-native-alert-queue#readme",
 	"publishConfig": {
 		"registry": "https://registry.npmjs.org/"
 	},
